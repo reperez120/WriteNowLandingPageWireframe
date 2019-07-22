@@ -1,0 +1,43 @@
+html {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    background-color: lightgrey;
+}
+h1 {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    color: grey;;
+}
+
+.logoImage {
+    background-color: grey;
+    height: 10rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+}
+
+.entry-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5rem;
+}
+
+button {
+    background-color: grey;
+    font-size: .8rem;
+    height: 2rem;
+    width: 5rem;  
+}
